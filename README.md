@@ -17,3 +17,27 @@ knowledge of personality is an interesting domain for researchers to work on. Pr
 real world. Use of social media is increasing day by day. Huge amount of textual data as well as images continue to explode to
 the web daily.Current work focuses on Linear Discriminate Analysis, Multinomial Naive Bayes and AdaBoost over Twitter standard
 dataset.
+
+# Requirements:
+
+There are some general library requirements for the project and some which are specific to individual methods. 
+The general requirements are as follows. 
+* `numpy`
+* `scikit-learn`
+* `matplotlib.pyplot`
+* `TextBlob`
+
+Software: Jupyter Notebook
+Hardware: Using 4GB RAM
+
+
+# Dataset Creation:
+
+Following are the steps to fetch real-time data from twitter.
+•	In order to collect tweets from Twitter, one needs to have a Twitter account. 
+•	After logging in to your Twitter account go to Twitter developer settings and follow the steps specified by the developers. 
+•	After all the processing is completed, you will get ‘Twitter APIKey’ and ‘APISecret’ key which are needed to be used in python program     to fetch tweets from Twitter. Python provide library named ‘Tweepy’ which is important for processing.
+
+
+
+
