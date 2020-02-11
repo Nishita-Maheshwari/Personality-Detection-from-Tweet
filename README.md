@@ -28,6 +28,7 @@ The general requirements are as follows.
 * `TextBlob`
 
 Software: Jupyter Notebook
+
 Hardware: Using 4GB RAM
 
 
